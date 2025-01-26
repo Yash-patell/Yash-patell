@@ -62,7 +62,15 @@
 
 ###
 
-<h3 align="left"></h3>
+<br clear="both">
+
+<p align="center"></p>
+
+###
+
+<br clear="both">
+
+<h3 align="center"></h3>
 
 ###
 
