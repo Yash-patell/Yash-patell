@@ -91,7 +91,7 @@
 
 <br clear="both">
 
-<div align ="left">
+
 <!-- <img src="https://raw.githubusercontent.com/Yash-patell/Yash-patell/output/github-snake.svg" alt="Snake animation" /> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash-patell/Yash-patell/output/github-snake-dark.svg" />
@@ -100,7 +100,7 @@
 
   <img alt="github-snake" src="https://raw.githubusercontent.com/Yash-patell/Yash-patell/output/github-snake.svg" />
 </picture>
-</div>
+
 ###
 
 <br clear="both">
