@@ -2,9 +2,14 @@
 
 <h2 align="center">Hi 👋!, I'm Yash Patel</h2>
 
+
 ###
 
-<h5 align="left">🌱 Results-driven Machine Learning enthusiast</h5>
+<h5 align="left">🔧 Transforming ideas into working code (and sometimes bugs).</h5>
+
+###
+
+<h5 align="left">🚀 Exploring AI, machine learning, and SQL wizardry..</h5>
 
 ###
 
@@ -13,6 +18,10 @@
 ###
 
 <h5 align="left">🔍 Currently Working on a Optical Character Recognition Project</h5>
+
+###
+
+<h5 align="left">🌱 Constantly learning, experimenting, and pushing my limits.</h5>
 
 ###
 
