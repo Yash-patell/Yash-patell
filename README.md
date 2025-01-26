@@ -106,7 +106,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Yash-patell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="135" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Yash-patell&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="134" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Yash-patell&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="134" alt="streak graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-patell&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="85" alt="languages graph"  />
 </div>
