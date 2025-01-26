@@ -79,7 +79,7 @@
 ###
 
 <div align="left">
-  <a href="yashpatel.ypyash@gmail.com" target="_blank">
+  <a href="mailto:yashpatel.ypyash@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/yash-patel-524738259/" target="_blank">
@@ -113,16 +113,16 @@
  
   
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-patell&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="85" alt="languages graph"  />
-</div> -->
+</div> --> -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yash-patell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="148" alt="stats graph"  />
 
-<!-- <img src="https://streak-stats.demolab.com?user=Yash-patell&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="131" alt="streak graph"  /> -->
+<img src="https://streak-stats.demolab.com?user=Yash-patell&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="131" alt="streak graph"  />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-patell&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="90" alt="languages graph"  />
 </div>
-
+###
 
 <br clear="both">
 
